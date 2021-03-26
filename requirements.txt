@@ -1,1 +1,12 @@
 -e .
+
+py~=1.10.0
+pip~=21.0.1
+attrs~=20.3.0
+toml~=0.10.2
+appdirs~=1.4.4
+setuptools~=54.2.0
+pytest~=6.2.2
+pluggy~=0.13.1
+iniconfig~=1.1.1
+pyparsing~=2.4.7
